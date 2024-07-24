@@ -1,0 +1,22 @@
+.inputGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.inputGroup label {
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.inputGroup input {
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1.2rem;
+}
+
+.inputGroup input:focus {
+  border-color: #007bff;
+  outline: none;
+}

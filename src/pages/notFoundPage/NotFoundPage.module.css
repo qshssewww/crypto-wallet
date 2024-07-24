@@ -1,0 +1,22 @@
+.container {
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.errorContent h1 {
+  font-size: 10rem;
+  color: #007BFF;
+}
+
+.errorContent p {
+  font-size: 1.5rem;
+  margin: 20px 0;
+  color: #333;
+}
+
+.link{
+	color: white;
+  text-decoration: none;
+  font-size: 1.3rem;
+}
